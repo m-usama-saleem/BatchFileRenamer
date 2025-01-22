@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usama Saleem\\source\\repos\\BatchFileRenamer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5B6CBF-79B7-439A-A1FF-95D9971BC3CE}|BatchFileRenamer\\BatchFileRenamer.csproj|c:\\users\\usama saleem\\source\\repos\\batchfilerenamer\\batchfilerenamer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC5B6CBF-79B7-439A-A1FF-95D9971BC3CE}|BatchFileRenamer\\BatchFileRenamer.csproj|solutionrelative:batchfilerenamer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usama Saleem\\source\\repos\\BatchFileRenamer\\BatchFileRenamer\\Program.cs",
+              "RelativeDocumentMoniker": "BatchFileRenamer\\Program.cs",
+              "ToolTip": "C:\\Users\\Usama Saleem\\source\\repos\\BatchFileRenamer\\BatchFileRenamer\\Program.cs",
+              "RelativeToolTip": "BatchFileRenamer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T11:57:28.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

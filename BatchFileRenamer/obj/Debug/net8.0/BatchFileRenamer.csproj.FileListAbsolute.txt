@@ -1,0 +1,14 @@
+C:\Users\Usama Saleem\source\repos\BatchFileRenamer\BatchFileRenamer\bin\Debug\net8.0\BatchFileRenamer.exe
+C:\Users\Usama Saleem\source\repos\BatchFileRenamer\BatchFileRenamer\bin\Debug\net8.0\BatchFileRenamer.deps.json
+C:\Users\Usama Saleem\source\repos\BatchFileRenamer\BatchFileRenamer\bin\Debug\net8.0\BatchFileRenamer.runtimeconfig.json
+C:\Users\Usama Saleem\source\repos\BatchFileRenamer\BatchFileRenamer\bin\Debug\net8.0\BatchFileRenamer.dll
+C:\Users\Usama Saleem\source\repos\BatchFileRenamer\BatchFileRenamer\bin\Debug\net8.0\BatchFileRenamer.pdb
+C:\Users\Usama Saleem\source\repos\BatchFileRenamer\BatchFileRenamer\obj\Debug\net8.0\BatchFileRenamer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usama Saleem\source\repos\BatchFileRenamer\BatchFileRenamer\obj\Debug\net8.0\BatchFileRenamer.AssemblyInfoInputs.cache
+C:\Users\Usama Saleem\source\repos\BatchFileRenamer\BatchFileRenamer\obj\Debug\net8.0\BatchFileRenamer.AssemblyInfo.cs
+C:\Users\Usama Saleem\source\repos\BatchFileRenamer\BatchFileRenamer\obj\Debug\net8.0\BatchFileRenamer.csproj.CoreCompileInputs.cache
+C:\Users\Usama Saleem\source\repos\BatchFileRenamer\BatchFileRenamer\obj\Debug\net8.0\BatchFileRenamer.dll
+C:\Users\Usama Saleem\source\repos\BatchFileRenamer\BatchFileRenamer\obj\Debug\net8.0\refint\BatchFileRenamer.dll
+C:\Users\Usama Saleem\source\repos\BatchFileRenamer\BatchFileRenamer\obj\Debug\net8.0\BatchFileRenamer.pdb
+C:\Users\Usama Saleem\source\repos\BatchFileRenamer\BatchFileRenamer\obj\Debug\net8.0\BatchFileRenamer.genruntimeconfig.cache
+C:\Users\Usama Saleem\source\repos\BatchFileRenamer\BatchFileRenamer\obj\Debug\net8.0\ref\BatchFileRenamer.dll
